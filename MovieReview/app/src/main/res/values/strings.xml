@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieReview</string>
+    <string name="mov_name">Name</string>
+    <string name="add">Add Movie</string>
+    <string name="desc">Description</string>
+    <string name="lang">Language</string>
+    <string name="release_date">Release Date</string>
+    <string name="rbtn1">English</string>
+    <string name="rbtn2">Chinese</string>
+    <string name="rbtn3">Malay</string>
+    <string name="rbtn4">Tamil</string>
+    <string name="chkbx1_text">Not Suitable For All Audiences</string>
+    <string name="chkbx_text2">Violence</string>
+    <string name="chkbx_text3">Language Used</string>
+</resources>
